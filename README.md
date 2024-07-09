@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @RomaneCAVEY
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning how to become the best computer science engineer!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in computer science, taekwondo, reading, climbing
+- 🌱 I’m currently learning how to become the best computer science engineer!💻 
+- 💞️  I'm looking to collaborate on projects that allow me to learn!
+- 📫 How to reach me : 
 - ⚡ Fun fact: ...
 
 <!---
