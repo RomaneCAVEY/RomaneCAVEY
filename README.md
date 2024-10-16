@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @RomaneCAVEY
+-I'am looking for a intership of 4 months from June to September 2025.
+
+-   👋 Hi, I’m @RomaneCAVEY
 - 👀 I’m interested in computer science, cybersecurity, taekwondo, reading, climbing ....
 - 🌱 I’m currently learning how to become the best computer science engineer !💻 
 - 💞️  I'm looking to collaborate on  all the projects that allow me to learn!
